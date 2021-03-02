@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/duckmon",
       },
       {
         label: "Docs",
@@ -107,7 +107,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://medium.com/@duckmoneydefi",
       },
     ],
   },
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/joinchat/E4RFl2FeLCFhMGJkn",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/duckmoneydefi",
   },
 ];
 
