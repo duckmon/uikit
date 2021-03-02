@@ -111,7 +111,7 @@ export const links = [
       // },
       {
         label: "Blog",
-        href: "https://medium.com/@duckmoneydefi",
+        href: "https://medium.com/duckmoneydefi",
       },
     ],
   },
