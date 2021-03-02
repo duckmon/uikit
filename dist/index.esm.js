@@ -1859,7 +1859,7 @@ var Icon$O = function (props) {
 
 var Logo = function (_a) {
     var isDark = _a.isDark; __rest(_a, ["isDark"]);
-    return (React.createElement("image", { width: "100%", height: "auto", href: isDark ? '/images/egg/LogoTextNewDark.png' : '/images/egg/LogoTextNewWhite.png' }));
+    return (React.createElement("image", { width: "100%", height: "auto", href: isDark ? "/images/egg/LogoTextNewDark.png" : "/images/egg/LogoTextNewWhite.png" }));
 };
 
 var Icon$P = function (props) {
@@ -2084,6 +2084,10 @@ var links = [
                 label: "Github",
                 href: "https://github.com/duckmon",
             },
+            {
+                label: "Docs",
+                href: "https://goosedefi.gitbook.io/goose-finance/",
+            },
             // {
             //   label: "Docs",
             //   href: "https://goosedefi.gitbook.io/goose-finance/",
@@ -2146,7 +2150,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/joinchat/E4RFl2FeLCFhMGJk",
+                href: "https://t.me/joinchat/E4RFl2FeLCFhMGJkn",
             },
         ],
     },
