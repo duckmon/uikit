@@ -1871,8 +1871,9 @@ var Icon$O = function (props) {
 };
 
 var Logo = function (_a) {
-    var isDark = _a.isDark; __rest(_a, ["isDark"]);
-    return (React__default['default'].createElement("image", { width: "100%", height: "auto", href: isDark ? "/images/egg/LogoTextNewDark.png" : "/images/egg/LogoTextNewWhite.png" }));
+    var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 160 30" }, props),
+        React__default['default'].createElement("image", { width: "160", height: "30", href: isDark ? '/logo-text-dark.png' : '/logo-text.png' })));
 };
 
 var Icon$P = function (props) {
@@ -2107,7 +2108,7 @@ var links = [
             // },
             {
                 label: "Blog",
-                href: "https://medium.com/@duckmoneydefi",
+                href: "https://medium.com/duckmoneydefi",
             },
         ],
     },
