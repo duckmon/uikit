@@ -105,6 +105,10 @@ export const links = [
         label: "Docs",
         href: "https://goosedefi.gitbook.io/goose-finance/",
       },
+      // {
+      //   label: "Docs",
+      //   href: "https://goosedefi.gitbook.io/goose-finance/",
+      // },
       {
         label: "Blog",
         href: "https://medium.com/@duckmoneydefi",
@@ -120,7 +124,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/duckmoneydefi",
       },
       // {
       //   label: "Bahasa Indonesia",
