@@ -11,7 +11,7 @@
   "repository": "https://github.com/duckmon/uikit",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
+    "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist && cp -r dist ../uikit-dist/ && cp package.json ../uikit-dist/",
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx}'",
     "storybook": "start-storybook -p 6006",
