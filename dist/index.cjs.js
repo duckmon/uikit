@@ -2097,7 +2097,7 @@ var links = [
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "https://duck-money-official.gitbook.io/duck-money/",
             },
             // {
             //   label: "Docs",
@@ -2117,7 +2117,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/duckmoneydefi",
+                href: "https://t.me/duckmoneyofficial",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2161,7 +2161,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/joinchat/E4RFl2FeLCFhMGJkn",
+                href: "https://t.me/duckmoneyannouncements",
             },
             // {
             //   label: "Whale Alert",
